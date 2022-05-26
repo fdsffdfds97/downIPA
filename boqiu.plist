@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>CFBundleDisplayName</key>
-				<string>波球直播</string>
+				<string>皮球直播</string>
 				<key>bundle-identifier</key>
 				<string>com.live.poqiu</string>
 				<key>bundle-version</key>
@@ -25,7 +25,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>波球直播</string>
+				<string>皮球直播</string>
 			</dict>
 		</dict>
 	</array>
